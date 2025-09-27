@@ -1,1 +1,12 @@
 jkjk,
+
+git remote add origin 'https://github.com/benhassinedevops/testdevops'
+git push -u origin main
+
+$ git push -f -u origin <https://github.com/benhassinedevops/testdevops.git>
+
+$ git pull origin https://github.com/benhassinedevops/testdevops
+# Grabs online updates and merges them with your local work
+   
+
+
